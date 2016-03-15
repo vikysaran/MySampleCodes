@@ -9,5 +9,5 @@ Creating a Right Tringle with UIBezierPath
 ```
 ```sh
 [myKeypad]
-Creating a custom keypad with Protocal
+Creating a custom keypad with a Protocal
 ```
